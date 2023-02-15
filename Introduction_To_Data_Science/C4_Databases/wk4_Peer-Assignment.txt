@@ -1,0 +1,60 @@
+### End of SQL w/ Python Peer Assignment
+
+# Tables need to be created and data uploaded for CENSUS_DATA, CHICAGO_PUBLIC_SCHOOLS and CHICAGO_CRIME_DATA
+
+%load_ext sql
+
+# Enter the connection string for your Db2 on Cloud database instance below
+# %sql ibm_db_sa://my-username:my-password@my-hostname:my-port/my-db-name
+%sql ibm_db_sa://nhm56623:6%2B965gmn1xr7fq6j@dashdb-txn-sbox-yp-dal09-03.services.dal.bluemix.net:50000/BLUDB
+
+### Write queries to solve the following problems
+
+# 1. Find the total number of crimes recorded in the CRIME table
+
+%sql select count(*) from CHICAGO_CRIME_DATA
+
+# 2. Retrieve first 10 rows from the CRIME table
+
+%sql select * from CHICAGO_CRIME_DATA limit 10
+
+# 3. How many crimes involve an arrest?
+
+%sql select count(*) from CHICAGO_CRIME_DATA where ARREST = 'TRUE'
+
+# 4. Which unique types of crimes have been recorded at gas stations?
+
+%sql select distinct PRIMARY_TYPE from CHICAGO_CRIME_DATA where LOCATION_DESCRIPTION like 'GAS STATION'
+
+# 5. In the CENSUS_DATA table list all community areas whose names start with the letter 'B'
+
+%sql select COMMUNITY_AREA_NAME from CENSUS_DATA where COMMUNITY_AREA_NAME like 'B%'
+
+# 6. Which schools in Community Areas 10-15 are healthy school certified?
+
+%sql select NAME_OF_SCHOOL, HEALTHY_SCHOOL_CERTIFIED, COMMUNITY_AREA_NUMBER from CHICAGO_PUBLIC_SCHOOLS \
+	where HEALTHY_SCHOOL_CERTIFIED = 'Yes' and COMMUNITY_AREA_NUMBER between 10 and 15
+
+# 7. What is the average school safety score?
+
+%sql select avg(SAFETY_SCORE) from CHICAGO_PUBLIC_SCHOOLS
+
+# 8. List the top 5 community areas by average college enrollment, i.e. number of students
+
+%sql select COMMUNITY_AREA_NAME, avg(COLLEGE_ENROLLMENT) AS AVERAGE_ENROLLMENT \
+   from CHICAGO_PUBLIC_SCHOOLS \
+   group by COMMUNITY_AREA_NAME \
+   order by AVERAGE_ENROLLMENT desc \
+   fetch first 5 rows only
+   
+# 9. Use a sub-query to determine which community areas has the least value for school safety score
+
+%sql select COMMUNITY_AREA_NAME, SAFETY_SCORE from CHICAGO_PUBLIC_SCHOOLS \
+   where SAFETY_SCORE = \
+       (select min(SAFETY_SCORE) from CHICAGO_PUBLIC_SCHOOLS)
+
+# 10. Find the per capita income of the community area which has a school safety score of 1
+
+%sql select CPS.COMMUNITY_AREA_NAME, CPS.SAFETY_SCORE, CD.PER_CAPITA_INCOME \
+	from CHICAGO_PUBLIC_SCHOOLS as CPS, CENSUS_DATA as CD \
+    where CPS.SAFETY_SCORE = 1 and CPS.COMMUNITY_AREA_NAME = upper(CD.COMMUNITY_AREA_NAME)
