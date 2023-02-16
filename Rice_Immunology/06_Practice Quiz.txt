@@ -1,0 +1,173 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 6
+Practice Quiz 6
+Practice Quiz. • 30 min. • 10 total points available.10 total points
+
+
+1.
+Question 1
+    The Ig α and Ig β peptides are important in which of the following processes?
+1 point
+
+XXXX - signaling cross-linking of the Ig receptors
+WRONG - preventing apoptosis of B cells in the bone marrow
+- binding to carbohydrate antigen
+- presenting antigen to B cells
+- forming part of the TCR
+
+NOTE: Because the Ig receptor has a very short cytoplasmic domain, it does not have the
+sequences needed to pick up phosphate and set off the internal signaling cascade. 
+
+
+2.
+Question 2
+    Consider B lineage cell development in primary and secondary adaptive immune organs.
+Class switching takes place in _____ organs, gene rearrangement in _______
+organs and affinity maturation in _______ organs.
+1 point
+
+- primary;           primary;           secondary
+- primary;           secondary;        primary
+WRONG - primary;           secondary;        secondary
+- secondary;        primary;           primary
+XXXX - secondary;        primary;           secondary
+- secondary;        secondary;        primary
+
+NOTE: Class switching takes place in the lymph nodes (2o), rearrangement in the
+bone marrow (1o) and affinity maturation on the lymph nodes (2o) 
+
+
+3.
+Question 3
+     An immature member of the B-cell lineage, developing in the bone marrow, displays
+a surface receptor with two heavy chains attached to surrogate light
+chains.  This receptor can receive information that triggers ______ in/of the cell.
+1 point
+
+XXXX - rearrangement of a light chain gene
+- mutation of the heavy chain hypervariable loops
+WRONG - apoptosis if the receptor binds antigen
+- clonal expansion if the receptor binds antigen
+- exit from the bone marrow
+
+NOTE: The function of the surrogate light chains is to build an Ig receptor with a functioning heavy
+chain, and this receptor does not bind antigen, but rather signals the go-ahead
+for light chain gene rearrangement.
+
+
+4.
+Question 4
+   The first antibodies released in response to infection by a new pathogen will be _____ class antibodies.
+1 point
+
+- D
+XXXX - M
+- approximately
+equal amounts of D and M
+- G
+- approximately
+equal amounts of M and G
+
+5.
+Question 5
+      It takes _______ days after exposure to a
+new pathogen to mount an adaptive response and the plasma cells that
+release these antibodies develop from _______ B cell.
+1 point
+
+WRONG - 1 to 3; naïve
+- 1 to 3; memory 
+XXXX - 4 to 7; naïve
+- 4 to 7; memory
+
+NOTE:  If it’s a brand new pathogen, there won’t be any memory cells
+that recognize it.  Thus it’s going to
+take 4 to 7 days (and maybe more) to get an effective Ig identified and go into
+production. 
+
+
+6.
+Question 6
+     TH cells use ______ to provide the second signal necessary to stimulate B cell.
+1 point
+
+- B7
+- phosphate
+- processed antigen
+XXXX - CD40L
+- CD4
+
+
+7.
+Question 7
+   A developing B cell enters a germinal center. 
+The cell will ________ immunoglobulin receptors from its surface, begin
+to divide, and produce descendants, most of which will make an antibody ____ at
+binding to the antigen than did antibody of the founder cell.
+1 point
+
+- remove; better
+XXXX - remove; worse
+- extend; better
+WRONG - extend; worse
+
+NOTE: The cell recycles its receptors so that it can later display new Ig receptors made
+from the mutated instructions.  Alas,
+random mutation usually produces a worse set of instruction to make a particular
+protein.
+
+
+8.
+Question 8
+      In this secondary follicle, the arrow labeled I points to the site of _____.
+1 point
+
+WRONG - gene rearrangement of the heavy chain gene
+- negative selection
+- hypermutation of the B cell variable gene regions
+WRONG - interaction of B, T and follicular dendritic cells
+- activation of B cells by antigen
+
+NOTE: The dark zone is the region of cell division and the light zone is the region of
+selection (and follicular dendritic cells) 
+
+
+9.
+Question 9
+       The differentiation of B cells to memory cells is mostly likely to be promoted by _________.
+1 point
+
+- inflammatory cytokines
+WRONG - signals from follicular
+     dendritic cells
+WRONG - signals from fat cells in the
+     bone marrow
+- rising levels of foreign
+     antigen
+- declining levels of foreign
+     antigen
+
+NOTE: Memory cells tend to arise at the end of an infection.  Thus
+rising levels of antigen and inflammatory cytokines would promote the
+development of more effector cells. Fats cells operate on B cells during development.
+
+
+10.
+Question 10
+ BSAP is a _______ found in ________.
+1 point
+
+- cytokine
+receptor;         developing B cells
+- cytokine
+receptor;         plasma cells
+XXXX - transcription
+factor;       developing B cells
+- transcription
+factor;       plasma cells
+
+
+
+
+
+

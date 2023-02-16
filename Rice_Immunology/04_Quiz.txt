@@ -1,0 +1,202 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 4
+Quiz 4
+Graded Quiz. • 10 total points available.10 total points
+
+
+1.
+Question 1
+      Which of the following is not necessarily
+characteristic of a good scientific model?
+1 point
+
+- replicates
+the original in the characteristics important to the problem
+- can
+be fooled around with a low cost and/or risk
+- provides
+a comprehensible size or time frame
+XXXX - resembles
+the real system in as many specifics as possible
+WRONG - removes
+details distracting to analyzing the problem
+
+
+2.
+Question 2
+ Current evidence suggest that the first immunoglobulin proteins were ________ and used
+to _________.
+1 point
+
+- soluble;
+      recognize pathogenic threats
+- soluble;
+      signal from one self-cell to another
+XXXX - membrane-bound;
+      bind one self-cell to another
+- membrane-bound;
+      capture food particles for phagocytosis
+
+
+3.
+Question 3
+     A B cell has both toll-like receptors and immunoglobulin receptors on its
+surface.  A pathogenic fungus activates
+both of these receptors.  The activation
+process differs in that only the TLR
+recognizes _______.
+1 point
+
+- protein
+     regions with shapes and charges specific to that fungal strain
+XXXX - characteristics
+     of wall materials common to many types of fungi
+- double
+     stranded RNAs specific to fungi
+- the
+     pathogenic signals by binding together two trans-membrane receptors
+WRONG - the pathogen
+     and then sets off a response cascade involving phosphorylation
+
+
+4.
+Question 4
+    This drawing shows the results of
+treating an antibody with _______.   If
+you added the antigen that the original antibody could bind, these fragments
+________ form a precipitate with the antigen.
+1 point
+
+- mercaptoethanol;        would
+
+- mercaptoethanol;        would NOT
+
+XXXX - pepsin;                 would
+
+- pepsin;                 would NOT
+
+
+5.
+Question 5
+    During translation of an immunoglobulin family protein, the Ig domain compacts into a
+lump as  __________ between atoms of  the peptide backbone leads to folding, the
+_________ R groups of the amino tend to move to the interior and _________ of
+the SH atoms of the cysteine R groups forms covalent bonds that stabilize the
+overall domain.
+1 point
+
+XXXX - hydrogen
+bonding;      hydrophobic;   oxidation
+- hydrogen
+bonding;      hydrophilic;   oxidation
+- hydrogen
+bonding;      hydrophobic;   reduction
+- disulfide  
+bonds;        hydrophilic;   oxidation
+WRONG - disulfide
+bonds;        hydrophobic;   reduction
+- disulfide
+bonds;        hydrophilic;   reduction
+
+
+6.
+Question 6
+    This drawing represents an  ________.
+1 point
+
+- A
+Class soluble antibody
+- A
+Class Ig membrane receptor
+- M
+Class soluble antibody
+WRONG - M
+Class Ig membrane receptor
+- A or B
+WRONG - C or D
+
+
+7.
+Question 7
+  G class antibodies signal _______ to promote ________.
+1 point
+
+XXXX - macrophages
+and neutrophils;            phagocytosis 
+- macrophages
+and neutrophils;            allergic reactions
+- basophils
+and mast cells;             phagocytosis 
+- basophils
+and mast cells;             allergic reactions
+- TC
+and NK cells;               phagocytosis 
+- TC
+and NK cells;               allergic reactions
+
+
+8.
+Question 8
+  Which of the following classes of antibodies can NOT
+serve as Ig receptors on memory B cells?
+1 point
+
+- A
+- G
+- E
+- M
+XXXX - Don’t be silly.  Memory cells may have Ig
+receptors from any class of antibody.
+
+
+9.
+Question 9
+As a cancer researcher seeking to develop a new immune therapy, you have
+identified a cell surface receptor that blocks the induction of apoptosis in
+damaged malignant cells.  You have
+successfully induced mice to make antibodies that will attach to and block this
+receptor protein.  You harvest plasma
+cells secreting these antibodies.  Use
+the Roman numerals of the choices to indicate what you should do next, in the
+correct order of performance.
+
+I.    Isolate individual cells producing just
+one kind of antibody to one of the receptor epitopes.
+
+IV.   Mix
+B cells secreting this antibody with myeloma cells in a medium that encourages
+cells to fuse.  
+
+III.  Grow
+the antibody-producing cells in a medium containing thymine, aminopterin and
+hypoxanthine.
+
+II.   Engineer
+the antibody-producing cells to make a human, not a mouse antibody.
+
+
+1 point
+
+- I,         II,        III,       IV
+- I,         III,       II,        IV
+XXXX - I,         IV,        III,       II
+- IV,        I,         II,        III
+- IV,        I,         III,       II
+- IV,        III,       II,        I
+
+
+10.
+Question 10
+   The antibody picture here ______ cross mucosa into the gut and _______ activate
+complement.
+1 point
+
+WRONG - can; does
+XXXX - can; does not
+- cannot; does
+- cannot; does not
+
+
+
+
+

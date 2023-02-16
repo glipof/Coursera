@@ -1,0 +1,803 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 6
+Final
+Graded Quiz. • 40 total points available.40 total points
+
+
+1.
+Question 1
+                 The pathogens pictured here are _____.     
+
+1.17 Candida
+
+1 point
+
+- in
+a strict sense, not really alive
+- eukaryotic
+multicellular animals
+- eukaryotic,
+unicellular and do not have cell walls
+XXXX - eukaryotic
+and have cell walls
+- prokaryotic
+and have cell walls
+
+2.
+Question 2
+      In which of the following situations is a pathogen most likely to evolve so that
+it produces a disease that is not acutely fatal?  When the pathogen is spread by ____.
+
+1 point
+
+- sewage-contaminated
+water 
+- insect
+vectors
+- long-lived
+airborne spores
+- infected
+food sources
+XXXX - person-to-person
+contact 
+
+3.
+Question 3
+     Which of the following is most commonly spread by rubbing your eyes with contaminated
+hands?
+
+1 point
+
+- fungi
+(yeast and ring worm) 
+XXXX - respiratory
+viruses (colds and flu)
+- bacteria
+(cholera and TB)
+- protozoans
+(malaria and trypanosomes)
+- helminth
+parasites (pinworms and flukes)
+
+
+4.
+Question 4
+     In general a ______ response to a microbe will kill it and may result in
+self-tissue damage and a _______ response will interfere with the microbe’s
+growth and development, but will not eliminate it. 
+
+1 point
+
+XXXX - TH1;    TH2
+- TH1;    Treg
+- TH2;    TH1
+- TH2;    Treg
+- Treg;   TH1
+- Treg;   TH2      
+
+
+5.
+Question 5
+Consider the co-receptors CD4 and CD8.  They
+received these names because CD8 _____.
+
+1 point
+
+WRONG - occurs on TC cells and CD4 on TH
+WRONG - has two peptides and CD4 has one peptide with four Ig domains
+- is found on twice as many T cells as CD4
+- was discovered after CD4, 5, 6 and 7
+- is present in twice the concentration as is CD4
+
+NOTE: Again, a reminder of the general uselessness of the naming conventions. 
+This is true of complement proteins and cytokines (IL-1, IL-2 etc.) Choice
+A is an example of the unresponsive answer, one that is true but does not
+answer the question.
+
+
+6.
+Question 6
+      Which of the following is/are true?
+
+1 point
+
+XXXX - All myeloid
+     cells are innate.
+- All lymphoid
+     cells are adaptive.
+- Both are true
+- Neither is true
+
+
+7.
+Question 7
+ In adult humans, hematopoietic stem cells reside in the ________.
+
+1 point
+
+- yolk
+sac membrane
+- Bursa
+of Fabricius
+- thymus
+- liver
+XXXX - bone marrow
+
+
+8.
+Question 8
+These two cartoons, showing a B cell and its
+descendent plasma cell, illustrate all of the following EXCEPT the _______.
+
+2.20 B-Cell 
+2.21 Plasma Cell
+
+1 point
+
+- secretion
+of antibodies by the plasma cell
+XXXX - ability
+of the B cell to internalize antigen
+- presence
+of Ig receptors on the B cell 
+- increase
+in endoplasmic reticulum in the plasma cell
+- similarities
+or relatedness of the two cells
+
+
+9.
+Question 9
+ Macrophages and neutrophils BOTH ______.
+
+1 point
+
+- have
+complex multilobed nuclei
+- present
+antigen to TH cells
+XXXX - can
+engulf and digest pathogens
+- may
+arise from a Common Lymphoid Progenitor
+- rearrange
+genes for receptors during development
+
+
+10.
+Question 10
+      Which of the following organs of the immune system are BOTH designated primary, meaning they are the principle sites where
+lymphocytes undergo gene rearrangement?
+
+1 point
+
+- the
+yolk sac membrane and the epidermis
+- the
+lymph nodes and the spleen
+- the
+mucosa of the lungs and the urogenital tract
+XXXX - the
+Bursa of Fabricius and the thymus
+- Peyr’s
+patches and M cells of the digestive tract
+
+
+11.
+Question 11
+   The difference between the immune function of the spleen and that of the lymph
+nodes is that ______.
+
+1 point
+
+- T cells
+     rearrange genes in the spleen, B cells in the lymph nodes
+- B cells
+     rearrange genes in the spleen, T cells in the lymph nodes
+- T cells
+     encounter antigen in the spleen, B cells in the lymph nodes
+- B cells encounter
+     antigen in the spleen, T cells in the lymph nodes
+XXXX - lymph nodes
+     filter lymph, the spleen filters blood
+
+
+12.
+Question 12
+      When a cell dies by apoptosis, the resulting cytoplasmic fragments are primarily
+phagocytized by ________.
+
+1 point
+
+- NK cells
+- B cells
+- sentinel dendritic cells
+XXXX - macrophages
+- eosinophils
+
+
+13.
+Question 13
+   Mammals and _______ possess the complete adaptive immune system (B cells, follicles, T
+cells, and a thymus).
+
+1 point
+
+XXXX - vertebrates
+that lay shelled eggs on land, but not amphibians and fish
+- birds,
+but not reptiles
+- amphibians,
+reptiles and birds
+- all
+other vertebrates except jawless fish
+- all
+other members of the phylum Chordata
+
+
+14.
+Question 14
+ Innate immunity is found in ________; adaptive immunity is found in________.
+
+1 point
+
+- insects but not plants;                      birds
+- insects but not plants;                      mammals
+XXXX - tomatoes and mushrooms;                      reptiles
+- tomatoes and mushrooms;                      insects and mammals
+
+
+15.
+Question 15
+  You are a vet at the Houston Zoo and the reptile keepers bring you very sick lizard
+with what appears to be a bacterial infection. In addition to providing the poor creature with fluids and appropriate
+antibiotics, the reptile is most likely to survive if kept so that its body
+temperature is about _______ ºF.
+
+1 point
+
+- 75 (24 °C)
+- 98 (37 °C)
+XXXX - 102 (40 °C)
+WRONG - 115 (46 °C)
+
+NOTE: This is a fever high enough to depress bacterial growth, but not
+high enough to denature proteins (although this will still up regulate
+chaperones, which provide some protection). 115 and you’ll curdle
+internally.    
+
+
+16.
+Question 16
+    Inflammatory cytokines _______ the permeability to the endothelial lining and _______
+neutrophils to/from the site of infection.
+
+1 point
+
+XXXX - increase; attract
+- increase; repel
+- decrease; attract
+- decrease; repel
+
+
+17.
+Question 17
+ Which barrier is most effective in preventing entrance of pathogens into the body?
+
+1 point
+
+- lung mucosa
+- lining of the stomach
+XXXX - skin
+- urinary epithelia
+- surface of the eye
+
+
+18.
+Question 18
+ Upon fusion of the lysosome with the phagosome, the dispersion of protein granules
+leads most directly to the ________.
+
+1 point
+
+- production
+of clorox and hydrogen peroxide
+XXXX - activation
+of hydrolytic enzymes and defensins
+- synthesis
+of reactive nitrogen species, such as NO
+WRONG - formation
+of actin microfilaments around the phagolysosome
+- drop
+in pH in the interior of the vesicle
+
+NOTE: A and C come from directly activated enzymes. The microfilaments
+are outside the phagolysosome.
+
+
+19.
+Question 19
+    A B cell has both toll-like receptors and immunoglobulin receptors on its surface. 
+A pathogenic fungus activates both of these receptors.  The activation process differs in that only the TLR recognizes _______.
+
+1 point
+
+- protein
+     regions with shapes and charges specific to that fungal strain
+XXXX - characteristics
+     of wall materials common to many types of fungi
+- double
+     stranded RNAs specific to fungi
+- the
+     pathogenic signals by binding together two trans-membrane receptors
+- the pathogen
+     and then sets off a response cascade involving phosphorylation
+
+
+20.
+Question 20
+ Which of the following molecules could be recognized by BOTH a Toll-like receptor AND
+an immunoglobulin receptor?
+
+1 point
+
+WRONG - viral RNA
+WRONG - bacterial DNA
+- bacterial flagellin
+- viral capsid proteins
+- mannose-containing carbohydrates
+
+NOTE: Recall that this was one of the molecules recognized by
+thymus-independent B cells.  
+
+
+21.
+Question 21
+   Treating antibodies with _______ is likely to be the first step in determining the
+molecular weight of the heavy and light chains. 
+Treating antibodies with _______ might be the first step in studying the
+functional regions of the overall protein.
+
+1 point
+
+- hydrogen
+     peroxide;     mercaptoethanol
+- hydrogen
+     peroxide;     brief proteolysis
+- mercaptoethanol;
+            hydrogen peroxide
+XXXX - mercaptoethanol;
+            brief proteolysis
+- brief
+     proteolysis;         mercaptoethanol
+- brief
+     proteolysis;         hydrogen
+     peroxide
+
+
+22.
+Question 22
+ Which antibodies form multimeric complexes using this peptide? 
+
+4.23 J Chain
+
+1 point
+
+- A and E
+- E and M
+WRONG - M and D
+- D and G
+- G and M
+XXXX - M and A
+
+NOTE: This is the J chain, which joins the antibody subunits of M and A antibodies, and
+allows them to cross an epithelial sheet.
+
+
+23.
+Question 23
+ M and E class antibodies differ in that ONLY
+the E class_____.
+
+1 point
+
+XXXX - activates
+eosinophils, basophils and mast cells
+- has
+4 constant domains and a rigid bend
+- may
+have lambda light chains in the structure
+- comes
+in two different subclasses
+- crosses
+epithelia
+
+
+24.
+Question 24
+    A neutrophil or macrophage would most likely interact with the part of
+the above antibody labeled ______.    
+
+4.18 CDR (with labels)
+
+1 point
+
+- A (green loop)
+- B (yellow light chain)
+WRONG - C (red squiggle light chain)
+- D (blue squiggle light chain)
+WRONG - E (join of heavy chain)
+- F (bottom of heavy chain)
+
+NOTE: Antibodies interact with cells via the Fc portion of the
+molecules.
+
+
+25.
+Question 25
+   Beta pleated sheets are NOT found in
+which region of a soluble G-class antibody?
+
+1 point
+
+- heavy
+chain constant domains
+XXXX - heavy
+chain hinge domains
+- heavy
+chain variable domains
+- light
+chain variable domains
+- light
+chain constant domains
+
+
+26.
+Question 26
+      In order to activate a B-cell Ig receptor, an antigen must _______.
+
+1 point
+
+- also
+be able to bind to a TLR
+- cause
+the cytoplasmic protein of the antibody to pick up a phosphate 
+- be
+some form of protein
+- enter
+the cell 
+XXXX - cross-link
+two receptors
+
+
+27.
+Question 27
+    Scientist develop lines of hybridoma cells to assure a consistent supply of a defined
+antibody.  They do this by fusing a B (plasma) cell with a myleoma (B cancer) cell. 
+What necessary function or ability does the myeloma cell supply to the hybrid cell? 
+
+1 point
+
+- specification
+of the CDR (recognition region) of the antibody
+- instructions
+for the Fc stem region of the antibody
+XXXX - capacity
+to avoid apoptosis and continue dividing
+- enzymes
+to synthesize nucleotides de novo
+- A and B
+- B and C
+
+
+28.
+Question 28
+
+5.11 Results of Alternative Message Splicing
+
+1.     
+Diagrams
+W, X, Y and Z show four possible mature messages that could be processed from a
+heavy chains primary transcript, prior to class switching.  Here are four possible characteristics for
+the resulting peptide:
+
+1)     Codes for a soluble antibody composed of a groups of five antibody units.
+2)     Codes for a membrane-spanning heavy chain only produced after negative selection.
+3)     Codes for a membrane-spanning heavy chain that can associate with surrogate light chains
+4)     Codes for a soluble antibody, but one that is a rarely observed in the plasma.
+
+Match the message
+with the characteristic trait of the peptide it codes for.
+
+1 point
+
+- 1)W     2)X      3)Y      4)Z
+
+- 1)X     2)Y      3)Z      4)W
+
+- 1)Z     2)Y      3)X      4)W
+
+- 1)W     2)X      3)Y      4)Z
+
+XXXX - 1)X     2)Z      3)W     4)Y
+
+
+29.
+Question 29
+      Both heavy chain genes and κ light chain genes ______.
+
+1 point
+
+- are found
+     near each other on the same chromosome
+- begin
+     rearrangement by joining a V to a J region
+XXXX - will have the
+     extra J regions copied into the primary transcript
+WRONG - will have the
+     extra upstream VL regions copied into the primary transcript
+- have two
+     membrane-spanning exons at the 3’ end of each of the constant regions
+
+NOTE: A-  They’re on different chromosomes.
+      B-  The heavy chain starts with D to J.
+      C-  Yes, and then spliced out in both cases.
+      D-  Neither one does this.
+      E-  Light chains never have membrane-spanning exons.
+
+
+30.
+Question 30
+   Which of these choices indicates the correct order of possible events in B-cell
+development between the synthesis of Ig α and β and the synapse between the
+B-cell and the T cell.
+
+I.   synthesis of surrogate light chains
+
+II.  synthesis of m (M class) heavy chains
+
+III. synthesis of δ (D class) heavy chains
+
+IV.  synthesis of κ light chains
+
+V. negative selection again self-recognition
+
+1 point
+
+XXXX - II,
+    I,       IV,
+   V,     III
+
+WRONG - II,
+    V,     I,
+      IV,    III
+
+- IV,
+   I,       II,
+    III,    V
+
+- IV,
+   II,     V,
+    I,       III
+
+NOTE: This looks annoyingly complicated, but it’s really not.  The choices start with either the synthesis
+of M chains or light chains, so you can ignore C and D.
+
+The next choice is between synthesis of surrogate chain and negative selection.  Since you must have the real light chains,
+and their rearrangement is signaled by the receptor with the surrogate light chains, you’ll be able to stop here and pick A.
+
+
+31.
+Question 31
+   Which of the following does NOT contribute
+to variation of the CDR (antigen binding sites) of the antibody?
+
+1 point
+
+- different combinations of Vs, Ds and Js
+XXXX - selection of different C regions: ms, αs, and γs 
+WRONG - variation in nucleotides incorporated at the combination joint
+- use of different combinations of light and heavy genes
+- somatic hypermutation in the DNA coding for the CDR loops of the light and heavy chains
+
+NOTE: This refers to instructions for the Fc portion, not the CDR.
+
+A gives the initial source of the variation.
+C refers to nucleotides that will eventually code for some of the amino acids in Loop 3.
+D points out that the same heavy chain will have a different recognition properties  depending on the
+characteristics of the light.
+E Somatic hypermutation is specifically directed at the nucleotides that code for the CDR.
+
+
+32.
+Question 32
+   This diagram shows the sub-parts of the recombination signal sequences of the variable and joining regions of the kappa
+light gene.  The part(s) labeled ______ will remain in the gene and contribute information to the third loop of the
+light chain.
+
+PG. 89 Recombination Signal Structure Nucleotide Sequence
+ - Left  (A Gray, B Lavender, C Orange)
+ - Right (D Purple, J Yellow)
+
+1 point
+
+XXXX - A only
+- B and D only
+- C only
+- A, B, and D
+- C, B, and D
+
+33.
+Question 33
+                 The drawing above illustrates the 6 loops that make up the CDR, three
+from the heavy chain and three from the light. 
+Which of these loops are coded for by gene regions that may experience
+somatic hypermutation?     
+
+5.21 Somatic Hypermutation
+ - Heavy Chain (A [pink], B [red squiggles] and C [green])
+ - Light Chain (D [to yellow area], E [pink] and F [red squiggles])
+
+1 point
+
+- A and B only
+WRONG - A, B, E and F, but not C and D
+- C only
+- D only
+WRONG - C and D only (not A, B, E, or F)
+- All six
+
+NOTE: While variations due to N nucleotide addition wind up in C only, and variations due to P nucleotide addition wind up
+in D and C, the mutational events occur in the V regions as well, directed to the areas that code for loops 1 and 2.
+
+
+34.
+Question 34
+    What letter (A through H) indicates the light chain regions derived from the part of
+the message indicated by Roman numeral I?
+
+6.21 Like 5.21 image but labels different
+ - H, E, F and G are light chain region 
+
+5.6 Processed Message (I = line between pink and yellow section, II = line between yellow and blue section)
+
+1 point
+
+- A
+- B
+- C
+- D
+- E
+XXXX - F
+- G
+- H
+
+
+35.
+Question 35
+  What letter (A through H) indicates the light chain regions derived from the part of
+the message indicated by Roman numeral II?
+
+6.21 and 5.6 Same Labels as Question 34
+
+1 point
+
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+XXXX - H
+
+
+36.
+Question 36
+ Which of the following processes in the differentiation of the B-cell lineage takes
+place primarily in the bone marrow (as opposed to the lymph nodes)?
+
+1 point
+
+- removal of the gene regions coding for the m
+and δ heavy chain constant domains
+
+- mutation directed to the variable domain regions specifying the structures of the CDR
+loops
+
+XXXX - negative
+selection to remove B cells that recognize self-antigen
+
+- activation
+of B cells by foreign antigen
+
+- rearrangement
+of the genes that code for T-cell receptors
+
+
+37.
+Question 37
+    Which of the following processes in the differentiation of the B-cell lineage takes
+place primarily in the lymph nodes (as opposed to the bone marrow)?
+
+1 point
+
+- removal of the gene regions coding for the γ (G class) heavy chain constant domains 
+WRONG - synthesis of immunoglobulin membrane receptors with surrogate light chains
+- up-regulation and initial transcription of the genes for Igα and Igβ 
+WRONG - allelic exclusion of κ genes in cells using a λ light chain gene
+- N-nucleotide addition at the junction of heavy chain V and D gene region 
+
+NOTE: For Questions 36 and 37 (and possibly others) please note that initial binding of antigen to a mature B cell can happen in the circulation or in an infected tissue.
+
+In bone Marrow										In lymph node
+Alpha-beta signal peptide synthesis	 B cells bind antigen 				B cells bind antigen
+Light and heavy chain gene rearrangements	 T cells activated by presenting cells 	T cells activated by presenting cells
+N and P nucleotide addition at joints	B-T synapse 					B-T synapse
+Allelic exclusion	Somatic hypermutation 						Somatic hypermutation
+Production of surrogate chains	Follicular dendritic cells pick up antigen 		Follicular dendritic cells pick up antigen
+Production of IgM plus light chain receptor	B cells compete for antigen 		B cells compete for antigen
+Negative selection (no self-recognition)	B cells class switch 			B cells class switch
+splicing of D into message	B cells decide to become memory or plasma 		B cells decide to become memory or plasma
+Signals that allow for exit	B cells leave 						B cells leave
+
+
+38.
+Question 38
+    Thymus-independent B cells are most likely to make antibodies that bind to ______ antigens.
+
+1 point
+
+- viral
+- self
+- plant
+- fungal
+XXXX - bacterial
+
+
+39.
+Question 39
+     For a B cell to survive the process of development to a plasma cell, it ______ bind
+antigen in the bone marrow and it ______ bind antigen while in circulation.
+
+1 point
+
+- MUST; MUST
+- MUST; must NOT
+XXXX - must NOT; MUST
+- must NOT; must NOT
+
+
+40.
+Question 40
+   If you view affinity maturation as a form of rapid evolution, driven by excess
+reproduction and survival of the fittest, the “fittest” B cells are those that
+are able to _______.  
+
+1 point
+
+- bind
+and signal most effectively to TH cells
+
+XXXX - produce
+a receptor with the greatest antigen-binding strength
+
+- synthesize
+the maximum number of antibodies in the shortest time
+
+WRONG - produce
+the most mutations per cell division while in the dark zone
+
+- undergo
+the fastest class switching when prompted by a TH cell
+
+NOTE: The excess reproduction takes place in the dark zone, and then selection in the
+light.  The selection process allows B cells with the best antigen-gathering capacity to survive and those are the
+cells with the most effective receptors.
+
+
+
+
+
+
+

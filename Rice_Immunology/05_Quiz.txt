@@ -1,0 +1,178 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 5
+Quiz 5
+Graded Quiz. • 10 total points available.10 total points
+
+
+1.
+Question 1
+      Most of the unique variability of the Ig genes arises from ________.
+1 point
+
+- multiple options in splicing the Ig heavy and light messages
+XXXX - rearrangements in the gene regions coding for the variable Ig domains
+- random combination of heavy and light chains
+- duplications of V-L and J regions during differentiation of the bone marrow
+- selection of various constant regions from heavy and light chain IgG genes
+
+
+2.
+Question 2
+     There are _______ nm (nanometers) in a millimeter.
+1 point
+
+- 10x2
+- 10x3
+- 10x4
+XXXX - 10x6
+- 10x9
+
+
+3.
+Question 3
+      Which of these might represent a rearranged light chain gene?
+1 point
+
+XXXX - 1.
+- 2.
+- 3.
+- 4.
+- 5.
+
+
+4.
+Question 4
+     During heavy chain rearrangement, the nine-base AT-rich sequence of the RSS functions
+to ______.
+1 point
+
+XXXX - participate
+     in the process that brings a V and a D region together
+- provide the
+     recognition that prevents the V from joining directly the J
+WRONG - contribute
+     bases to the joint sequences that connect a D to a J
+- allow the
+     precise removal of C regions during class switching
+- determine
+     whether or not membrane-spanning exons will get spliced into the processed message
+
+COMMENT: Recall that the single strand loops arose from the 7–base
+palindromes.  This means that the rest of the RSS will not wind up in the finished joint. 
+So it must participate in controlling the process in some way.  B is wrong because that is the function of
+the one and two urn signals.
+
+
+5.
+Question 5
+      This picture shows two RSS signals.  During
+joining of the coding regions they control, the nucleotides of which ones will
+be removed and recycled?
+1 point
+
+- C only
+WRONG - B and D only
+WRONG - B, C, and D only
+- B, C, D, and parts of A and E
+- B, C, D, and all of A and E
+
+COMMENT: This is basically regurgitation from the lecture to make sure you understand which part
+gets referred to when describing rearrangement.
+
+
+6.
+Question 6
+     A B cell with this heavy chain gene could make class_______, assuming no further
+changes to the gene.
+1 point
+
+- A1 antibodies
+- A1 Ig receptors
+- A2 antibodies
+- A2 Ig receptors
+XXXX - A and B
+WRONG - A and C
+- A, B, C and D
+
+COMMENT: The constant domains immediately downstream from the rearranged variable regions is the α1, with is the only
+usable region.  However it can be spliced to produce with a membrane-bound Ig receptor of a soluble antibody.
+
+
+7.
+Question 7
+    Which of these loops owe some of their variation to N-nucleotide addition?    
+1 point
+
+XXXX - C only
+- D only
+WRONG - D and C
+- A, B, and C
+- All of them (A, B, C, D, E, and F)
+
+COMMENT: Only the heavy chain has N-nucleotide
+addition, which occurs at the VDJ joints, not in the interior of the V gene region.
+
+
+8.
+Question 8
+      When a B cell class switches it may remove the sequence(s) for ________.
+1 point
+
+- the
+ε without removing all the γs
+- the
+α1 without removing the γ2 and γ4
+- the
+µ region without removing the δ
+WRONG - the
+δ region without removing the µ
+WRONG - the
+γ3 and γ1 without removing the µ and δ
+
+COMMENT: You can’t remove a sequence without removing everything between
+it and the variable region as well.
+
+
+9.
+Question 9
+      What is the function of the 5’ leader sequence of the heavy chain gene?
+1 point
+
+- It
+binds RNA polymerase.
+- It
+codes for the amino acids that anchor the mature peptide in the membrane.
+XXXX - It
+codes for the amino acids that target the growing peptide to the inside of the
+endoplasmic reticulum.
+- It
+contains the RSS that allows the V to attach to the D gene region.
+- It
+has a splicing sequence that attaches the V region to one of the available C
+regions in a mature message.
+
+
+10.
+Question 10
+     Gene rearrangement results in the addition of bases at the joint due to N nucleotide
+addition.  What happens to these bases?
+1 point
+
+- They are
+     transcribed into a primary message transcript and deleted during message
+     splicing.
+- They are
+     transcribed and remain in the processed message, but they are skipped over
+     during translation.
+- They are
+     transcribed and remain in the processed message and are translated into the
+     amino acid sequence at the C terminus of the peptide.
+XXXX - They are
+     transcribed and remain in the processed message, and are translated into
+     the amino acid sequence of the hypervariable loop that connects the V, D
+     and J regions. 
+
+
+
+
+

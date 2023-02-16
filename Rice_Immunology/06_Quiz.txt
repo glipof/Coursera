@@ -1,0 +1,178 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 6
+Quiz 6
+Graded Quiz. • 10 total points available.10 total points
+
+
+1.
+Question 1
+    In this representation of a lambda light chain gene after rearrangement, which
+letter indicates a message precursor splicing signal?
+1 point
+
+- A
+- B
+XXXX - C
+- D
+- E
+
+
+2.
+Question 2
+    Which of these choices indicates the correct order of possible events in B-cell
+development between the synthesis of Ig α and β and the synapse between the
+B-cell and the T cell.
+
+I.       
+synthesis of surrogate light chains
+
+II.     
+synthesis of m (M class) heavy chains
+
+III.  
+synthesis of δ (D class) heavy chains
+
+IV.  
+synthesis of κ light chains
+
+V.
+negative selection again self-recognition
+
+1 point
+
+XXXX - II,     I,       IV,    V,       III
+- II,     V,       I,     IV,      III
+- IV,     I,       II,    III,     V
+- IV,    II,       V,     I,       III 
+
+
+3.
+Question 3
+   During the differentiation of B cells in the secondary lymphoid organs, ______ cells
+supply the signals that determine class switching.  These cells, in turn, decide what kind of signal
+to send out based on the information that they have received from _________.
+1 point
+
+XXXX - TH cells;                        sentinel dendritic cells
+- TH cells;                        follicular dendritic cells
+- follicular dendritic;       	   macrophages
+- follicular dendritic;            neutrophils
+
+
+4.
+Question 4
+     As you recover from a flu (or other acute) infection by a new pathogen, you will
+begin to make ______ memory cells.  This
+will allow you to begin making large quantities of soluble ________
+antibodies to this pathogen within 4 days of a subsequent infection.
+1 point
+
+- M/D only; 	  M only
+- M/D only;       M and D
+- M/D and G;      G only
+XXXX - M/D and G;      M and G only
+- M/D and G;      M, D and G
+
+
+5.
+Question 5
+       For all B cells, the first signal for activation comes from the binding of
+antigen.  However the second signal for thymus dependent B cells comes from
+_______ and for thymus independent B cells, it comes from ______.
+1 point
+
+- CD4;                         interaction with TCRs 
+WRONG - CD4;                         activation of toll-like receptors
+WRONG - activation of toll-like receptors;              CD40R
+- activation of toll-like receptors;              CD4
+- CD154 (CD40L);                                  CD40R
+- CD154 (CD40L);                                 activation of toll-like receptors 
+
+NOTE: Basically a double factoid question from the lecture. 
+
+
+6.
+Question 6
+      During affinity maturation, B-cells will undergo somatic hypermutation in the ______
+zone and selection for improved CDR binding in the _______ zone. After these
+processes the TH cell may direct the B cell to leave and head to the
+site of an infection and secrete antibodies there, which will cause the B cell
+to _________.
+1 point
+
+- light; dark;                   make more rough ER
+- light; dark;                   class switch
+- light; dark;                   up-regulate splicing enzyme that add membrane spanning instructions
+- dark; light;                   class switch
+XXXX - dark; light;                   make more rough ER
+WRONG - dark; light;                   up-regulate splicing enzyme that add membrane spanning instructions
+
+NOTE: The first part is basically a factoid- somatic hypermutation in the dark, selection
+in the light.  Once a cell begins to make antibody, it must enlarge and greatly increase it RER so that it can produce
+quantities of secreted proteins, instead of just several hundred receptors. It need not class switch to do this.
+
+
+7.
+Question 7
+                 This drawing represents a cell involved in B cell determination. The little yellow lumps on the cell represent
+________.    
+
+1 point
+
+- cytokine signals
+- MHC I molecules displaying antigen 
+XXXX - antigen-antibody complexes
+- platelets
+- the first blebbing events of apoptosis
+- attached TH cells
+
+
+8.
+Question 8
+     Thymus dependent and thymus independent B cells are similar in that they BOTH
+________.
+
+1 point
+
+XXXX - bind antigen with receptors whose genes have been rearranged in the bone marrow 
+WRONG - require the activation of Toll-like receptors on the B-cell surface
+- can respond to foreign antigen within three days of first exposure
+- are highly likely to undergo class switching
+- occur as both memory and plasma cells
+
+NOTE: The wrong answer choices
+capture differences: B and C for TI, D and E for ordinary B cells.
+
+
+9.
+Question 9
+       When both thymus-dependent and thymus-independent B cells begin activation, they
+cross link the Ig receptors and generate an internal signaling sequence.  In both cases the sequence begins with the
+_________ of the ________.
+
+1 point
+
+- phosphorylation of ITAMs;       Ig receptor
+XXXX - phosphorylation of ITAMs;       Ig α/β co-receptors
+- hydrolysis of the C terminal;   Ig receptor
+- hydrolysis of the C terminal;   Ig α/β co-receptors
+
+
+10.
+Question 10
+   Plasma cells of the B cell lineage express CD-22, the receptor for the Fc stem of the
+antibody, in order to sense _______.
+
+1 point
+
+- the effectiveness of antibodies in current use
+- pathogens, so they can phagocytized them
+- the class of antibodies currently available
+- the seriousness of an infection 
+XXXX - when sufficient antibodies are present
+
+
+
+
+
+

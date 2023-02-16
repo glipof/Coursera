@@ -1,0 +1,189 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 4
+Practice Quiz 4
+
+
+1.
+Question 1
+     Pretend you are a high school teacher in the USA. 
+You have brilliant, motivated students and a hefty budget provided by
+some incredibly successful bake sales (We can all dream.)  Your students want to study how genes affect
+neural development in humans, and they need a model system. You refuse to spend
+time filing paperwork with government agencies designed to protect mammals and
+birds, but you want an organism that can provide information relevant to human
+neurobiology.  You advise your students
+to study _____.
+1 point
+
+- each other
+- fruit flies
+XXXX - zebrafish
+WRONG - mice
+- C. elegans (roundworms) 
+
+
+2.
+Question 2
+   These pictures show the model of an immunoglobulin domain before folding and after
+folding, wrapped with a twist tie.  The
+yellow regions of the pipe cleaner represent _______ and the wire running
+through the whole pipe cleaner represents the _________.
+1 point
+
+ - hydrophobic
+amino acid R groups;     peptide backbone 
+WRONG - hydrophobic
+amino acid R groups;     disulfide bond
+- hydrophilic
+amino acid R groups;      peptide backbone 
+WRONG - hydrophilic
+amino acid R groups;      disulfide bond
+
+
+3.
+Question 3
+      In this model of an antibody, what letter indicates the heavy chain constant
+domain covalently bound to the oligosaccharide (carbohydrate)?
+1 point
+
+- A
+- B
+XXXX - C
+- D
+- E
+
+
+4.
+Question 4
+    M and D class antibodies differ in that only
+the D class antibodies______.
+1 point
+
+- are
+found on the surface of naïve B cells
+- come
+in two subclasses
+- have
+subunits with two heavy and two light chains
+XXXX - have
+heavy chains with three constant domains
+- are
+likely to be secreted by a plasma cell
+
+
+5.
+Question 5
+   In this drawing of an Ig receptor complex, the lines indicate portions of the
+cytoplasmic co-receptor tails that will _______ during B cell activation.
+1 point
+
+- attach
+to the cytoskeleton
+WRONG - bind
+and activate transcription factors
+- be
+hydrolyzed and removed
+- have
+methyls added to them
+- have
+carboxyls added to them
+XXXX - have
+phosphates added to them
+
+
+6.
+Question 6
+                 The structure represent by this drawing might be attach to _____ class
+antibodies, and could be separated from them intact by treatment with ________.    
+1 point
+
+- M
+only;           mercaptoethanol
+- M
+only;           pepsin
+- A
+only;            mercaptoethanol
+- A
+only;            pepsin
+XXXX - M
+and A;         mercaptoethanol
+- M
+and A;         pepsin
+
+
+7.
+Question 7
+The diagram below illustrates the two structural categories of antibody
+subunits.  The left-hand drawing (I, with
+the flexible hinge) might be the basic unit of a (n) _______ class antibody and
+the one on the left (II, with the rigid bend) might be a (n) _______ class
+antibody.
+1 point
+
+- M; G
+- E; M
+XXXX - A; E
+- D; G
+- G; D
+
+
+8.
+Question 8
+      Adjuvants improve the effectiveness of antibody production in response to vaccines by
+______.
+1 point
+
+- crosslinking
+     Ig receptors
+XXXX - binding to
+     pattern recognition receptors
+- phosphorylating
+     Ig α and β immunoglobulin co-receptors
+- increasing
+     the amount of endoplasmic reticulum in the cell
+- aiding the
+     dispersal of immunogenic molecules form the site of injection
+
+
+9.
+Question 9
+  After B cells and myeloma cells are allowed to fuse, the cells are cultured in HAT
+medium so that only fused cells can survive and grow.  The function of the hypoxanthine and thymine in the HAT medium is to ______.
+1 point
+
+WRONG - prevent
+synthesis by the de novo pathway
+- supply
+the de novo pathway with precursors
+- prevent
+synthesis by the salvage pathway
+XXXX - supply
+the salvage pathway with precursors
+
+
+10.
+Question 10
+   Homeland Security needs a supply of monoclonal antibodies to metallo-organic compounds,
+such as dimethyl mercury. These are toxic substances too small to crosslink the
+surface Igs of a B cell. They might be able to induce mice to make antibodies
+to metallo-organic compounds by ______.
+1 point
+
+- blocking the
+     liver and kidneys from excreting them
+- having the
+     mice inhale them in vaporized water droplets
+- feeding them
+     to the mice in a single high concentration dose
+XXXX - binding them
+     to egg-white albumen and injecting the complex
+- feeding them
+     to the mice in low concentrations over an extended period of time
+
+
+
+
+
+
+
+

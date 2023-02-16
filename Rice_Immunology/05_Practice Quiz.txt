@@ -1,0 +1,169 @@
+Fundamentals of Immunology: Innate Immunity and B-Cell Function
+Week 5
+Practice Quiz 5 • 30 min. • 10 total points available.10 total points
+
+
+1.
+Question 1
+   This could be a representation of a heavy chain ______.
+1 point
+
+- gene in a germ cell
+XXXX - gene during rearrangement
+- gene during λ light chain gene rearrangement
+- primary message transcript
+- processed message
+
+
+2.
+Question 2
+                 This photograph shows a model of the DNA at the end of one of the
+regions during gene rearrangement.  The
+yellow arrow points to a ______ - stranded region that includes bases from the
+__________ region(s).    
+1 point
+
+XXXX - single;
+            palindromic
+- single;
+            one- or two-turn
+- single;
+            palindromic and one- or two-turn
+- double;
+           palindromic
+WRONG - double;
+           one- or two-turn
+- double;
+           palindromic and one- or two-turn
+
+
+3.
+Question 3
+     Consider a single mature heavy chain peptide.  How
+many CDR loops in the heavy peptide show variability that arose from DNA
+changes during the gene rearrangement? 
+How CDR loops show variability arising from somatic hypermutation? 
+1 point
+
+- 1; 1
+- 1; 3
+- 2; 1
+WRONG - 2; 3
+WRONG - 3; 1
+WRONG - 3; 3
+
+HINT: The junctions between the D and V on one side and J on the other
+all contribute information to the third loop only.  Somatic hypermutation is directed to the DNA
+that codes for all three loops. 
+
+
+4.
+Question 4
+    This
+diagram shows the sub-parts of the recombination signal sequences of the
+variable and joining regions of the kappa light gene. All of the nucleotides of
+part(s) labeled ______ will be removed from the gene during rearrangement.
+1 point
+
+- C only
+- A and B only
+- A, B, and D only
+- B and D only
+XXXX - B, C, and D only
+- A, B, C and D – The V and the J will connect directly to each other.
+
+
+5.
+Question 5
+    Which of these choices might represent a message precursor that could be spliced to
+produce a peptide with a membrane span?
+1 point
+
+- 1.
+- 2.
+XXXX - 3.
+WRONG - 4.
+- 5.
+
+
+6.
+Question 6
+   Thymus-independent B cells cannot
+________.
+1 point
+
+- secrete antibodies
+WRONG - respond to pathogenic patterns using toll-like receptors
+- rearrange their genes during development
+XXXX - produce G class antibodies
+- bind to protein antigens
+
+
+7.
+Question 7
+      N-nucleotide
+addition adds nucleotides to the junctions between the _______.
+1 point
+
+- The V and the J of light chain genes
+- The V and the D of heavy chain genes
+- The D and the J of heavy chain genes
+XXXX - B and C
+- A and C
+
+
+8.
+Question 8
+   Immature B cells in the bone marrow undergo apoptosis if
+they _________.  Mature, naive B cells
+undergo apoptosis if they __________.
+1 point
+
+XXXX - bind antigen;           do not bind antigen
+WRONG - bind antigen;           bind antigen
+WRONG - do not bind antigen;    bind antigen
+- do not bind antigen;    do not bind antigen
+
+9.
+Question 9
+     In the drawing, the tiny golden lightning bolt indicates the _______ and the tiny
+red stop signs indicate signals for _________.
+1 point
+
+WRONG - activated promoter;     class switching
+- activated promoter;     transcriptional (RNA) termination
+WRONG - activated promoter;     translational (peptide) termination
+- RSS heptamer;            class switching
+WRONG - RSS heptamer;            transcriptional (RNA) termination
+- RSS heptamer;            translational (peptide) termination
+
+HINT: The lightning bolt indicates the upstream boundary of the L,
+which is the location of the promoter. 
+The stop signs are for message termination, the protein termination
+codons will be in the exons upstream from the yellow and red regions indicating
+addition of the polyA tail.  Class switch
+signals are the diagonal striped regions upstream from the constant region that
+gets removed. 
+
+
+10.
+Question 10
+ The above diagram show the unrearranged heavy chain gene.  This gene will class switch to code for a G1
+antibody (usingCγ1), after combining VL H40, DH2, JH1
+to form the region coding for the variable domain.  Arrow point to these regions. Which of the
+following gene regions will be removed from the DNA before this gene is
+transcribed into an mRNA precursor?
+1 point
+
+- No VLH regions;   DH1 and 3;       no JH regions;        Cα1 through Cα2 
+- No VLH regions;   DH1 and 3;       JH2 through 5;       Cα1 through Cα2
+XXXX - No VLH regions;   DH1 and 3;       no JH regions;        Cμ, Cδ and Cγ3
+WRONG - VLH10;                  DH1 and 3;       JH2 through 5;       Cα1 through Cα2
+- VLH10;                  DH1 and 3;       no J2 regions;        Cμ, Cδ and Cγ3
+- VLH10;                  DH1 and 3;       JH2 through 5;       Cμ, Cδ and Cγ3
+
+
+
+
+
+
