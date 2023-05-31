@@ -1,0 +1,38 @@
+UCSD Bioinformatics - Week 1 Quiz
+
+
+Question 1
+Before you begin this quiz, please note the following.
+1. Lecture videos contain useful information, but quizzes in this course are taken from the interactive text. Quizzes have been designed so that learners on both tracks can take them.)
+2. Quiz questions are designed so that you do not need to have any programming experience in order to answer them (they can be solved with pencil-and-paper.) You should, however, be able to understand the computational approaches described in this class, which we often explain in the language of pseudocode.
+True or False: The Finding oriC Problem is a well-defined computational problem.
+
+2 points
+
+- True
+- False (XXXX)
+
+Question 2
+Compute Count(ACTGTACGATGATGTGTGTCAAAG, TGT).
+2 points
+
+- 4
+
+Question 3
+What is the most frequent 3-mer of CGCCTAAATAGCCTCGCGGAGCCTTATGTCATACTCGTCCT?
+2 points
+
+- CCT
+
+Question 4
+What is the reverse complement of GCTAGCT?
+2 points
+
+- AGCTAGC
+
+Question 5
+Solve the Pattern Matching Problem with Text = AAACATAGGATCAAC and Pattern = AA to find all starting positions of Pattern in Text. Return the starting positions in increasing order (make sure to use 0-based indexing!)
+2 points
+
+- 0 1 12
+

@@ -1,0 +1,48 @@
+Finding Hidden Messages in DNA (Bioinformatics I)
+
+Week 2 Quiz
+
+
+Question 1
+The position of the E. coli genome at which the skew attains a maximum value is most likely near which of the following?
+2 points
+
+- the middle of the reverse strand (WRONG)
+- the replication terminus
+- the middle of the forward strand
+- the origin of replication
+
+
+Question 2
+Compute the Hamming distance between CTTGAAGTGGACCTCTAGTTCCTCTACAAAGAACAGGTTGACCTGTCGCGAAG and
+
+ATGCCTTACCTAGATGCAATGACGGACGTATTCCTTTTGCCTCAACGGCTCCT.
+2 points
+
+- 43
+
+
+Question 3
+Identify the value of i for which Skewi (GATACACTTCCCGAGTAGGTACTG) attains a minimum value.
+2 points
+
+- 12
+
+
+Question 4
+Compute Count1(TACGCATTACAAAGCACA, AA).
+2 points
+
+- 13
+
+
+Question 5
+The d-neighborhood of the k-mer Pattern is the collection of all k-mers that are at most Hamming distance d from Pattern.
+
+How many 5-mers are in the 2-neighborhood of Pattern = TGCAT?
+
+Note that the d-neighborhood of Pattern includes Pattern.
+2 points
+
+- 106
+
