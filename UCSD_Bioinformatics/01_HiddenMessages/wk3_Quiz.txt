@@ -1,0 +1,164 @@
+Finding Hidden Messages in DNA (Bioinformatics I)
+
+Week 3 Quiz
+
+
+
+1.
+Question 1
+Which type of algorithm enumerates every possible candidate solution to a problem and then checks each one individually?
+1 point
+
+- Brute force search (XXX)
+- Machine learning algorithm
+- Randomized algorithm
+- Greedy algorithm
+- Dynamic programming algorithm
+- Combinatorial algorithm
+
+Which type of algorithm selects the most attractive choice at each step?
+1 point
+
+- Randomized algorithm
+- Greedy algorithm (XXX)
+- Combinatorial algorithm
+- Machine learning algorithm
+- Dynamic programming algorithm
+- Brute force search
+
+
+2.
+Question 2
+True or false: a motif of lowest score with respect to a collection of strings does not need to appear as a substring of one of the strings.
+1 point
+
+- True (XXX)
+- False (WRONG)
+
+True or false: a motif of lowest score with respect to a collection of strings must appear as a substring of one of the strings.
+1 point
+
+- True
+- False (XXX)
+
+3.
+Question 3
+Order the following probability distributions from lowest to highest entropy:
+
+A: (0.5, 0, 0, 0.5)
+B: (0.25, 0.25, 0.25, 0.25)
+C: (0, 0, 0, 1)
+D: (0.25, 0, 0.5, 0.25)
+2 points
+
+- B, C, A, D
+- B, D, A, C
+- D, B, C, A
+- C, A, D, B (XXX)
+- C, D, B, A
+
+- B, D, A, C
+- C, A, D, B (XXX)
+- B, C, A, D
+- C, D, B, A
+- D, B, C, A
+
+4. (WRONG)
+Question 4
+Consider the following profile matrix:
+
+A:  0.4  0.3  0.0  0.1  0.0  0.9
+C:  0.2  0.3  0.0  0.4  0.0  0.1
+G:  0.1  0.3  1.0  0.1  0.5  0.0
+T:  0.3  0.1  0.0  0.4  0.5  0.0
+    A.   ACG  G    CT   GT   A
+
+Which of the following strings is a consensus string for this profile matrix?  (Select all that apply.)
+2 points
+
+- AAGCCA
+- AGGTCA
+- ACGTTA (XXX)
+- TCGCGA
+- ACGCGA (XXX)
+- AGGCTA
+
+- ACGTTA (XXX)
+- AAGTGA
+- ATGCTA
+- AGGTGA
+- TCGCGA (XXX)
+- ACGTTT
+
+- AAGTGA (XXX)
+- ACGCGA (XXX)
+- ACGTTT (NO)
+- ATGCTA (NO)
+- ACGTTA (YES)
+- AGGTCA (NO)
+
+- Needed to Add ACGTTA
+- Matching Options From 3rd List: ['AAGTGA', 'ACGCGA', 'ACGTTA']
+
+- TCGCGA
+- AAGCCA
+- AGGCTA (XXX)
+- ACGTTA (XXX)
+- AGGTCA
+- ACGCGA (XXX)
+
+5. (CORRECTED)
+Question 5
+Consider the following motif matrix:
+
+CTCGATGAGTAGGAAAGTAGTTTCACTGGGCGAACCACCCCGGCGCTAATCCTAGTGCCC
+GCAATCCTACCCGAGGCCACATATCAGTAGGAACTAGAACCACCACGGGTGGCTAGTTTC
+GGTGTTGAACCACGGGGTTAGTTTCATCTATTGTAGGAATCGGCTTCAAATCCTACACAG
+
+Which of the following 7-mers is a median string for this motif matrix? (Select all that apply.)
+2 points
+
+- Redone code to return multiple strings = ['GTAGGAA', 'TAGTTTC', 'GAACCAC', 'AATCCTA']
+
+1st try was, missed 'GTAGGAA'.
+- GATGAGT
+- GTAGGAA
+- AATCCTA (XXX)
+- GTCAGCG
+- AACGCTG
+- TCTGAAG
+
+2nd try was, missed 'GAACCAC'; 'AACGCTG' was wrong.
+- CGTGTAA
+- AATCCTA (XXX)
+- AACGCTG (XXX)
+- GAACCAC
+- GGTTACT
+- ATAACGG
+
+3rd try below
+- AACGCTG
+- GTCAGCG
+- AATCCTA (XXX)
+- TCTGAAG
+- GTAGGAA (XXX)
+- GATGAGT
+
+6. (WRONG)
+Question 6
+Consider the following profile matrix Profile:
+
+A:  0.4  0.3  0.0  0.1  0.0  0.9
+C:  0.2  0.3  0.0  0.4  0.0  0.1
+G:  0.1  0.3  1.0  0.1  0.5  0.0
+T:  0.3  0.1  0.0  0.4  0.5  0.0
+
+Compute Pr(AAGTTC|Profile). (Express your answer as a decimal and do not round your answer.)
+2 points
+
+- Answer I get is 0.0024000000000000002. It says not to round answer, but various combinations are being rejected.
+
+- 0.0024
+
+
+

@@ -1,0 +1,34 @@
+
+
+1. Starting Positions are:
+
+- 57 139 107 172 114 136 159 143 155 186 178 200 118 137 173 201 160 62 216 165 45 204 
+
+2. Image Motif Comparison
+
+- Two to chose from
+
+3. Length of motif produced and are they similar
+
+A the motif length is 20
+B they are similar, expect that it has been shifted over by a single letter
+
+4. Is it better to start with short motifs or long motifs and why?
+
+- It is better to start with shorter motifs. As we have seen it takes less time to find shorter motifs and some algorithms may even be unable to identify longer motifs. Since long motifs contain short motifs as substrings, we may be able to find longer motifs by first finding short motifs and attempt to expand them into long motifs.
+
+5. To evaluate the statistical significant of an identified motif, we need to ensure that a motif with the same or even larger score is unlikely to occur in a collection of typical DNA strings of the same length. How would you generate these strings and justify your answer?
+
+- There are several possible answers, such as:
+
+	+ Consider other known sequences of the same length having no motifs
+	+ Randomly generate strings ideally having the same GC-content as species in question
+
+If the motif in question has a very low probability of occurring in randomly generated strings, we can conclude it is statistically significant.
+
+6-10. Image Motif Comparison
+
+11. Which of the motif logos created are similar to motif logo generated from upstream250.txt.
+
+- Motifs produced by upstream 100, 500 and 1000 are all similar to upstream 250.
+- Motif produced by upstream 25 does not resemble the others.

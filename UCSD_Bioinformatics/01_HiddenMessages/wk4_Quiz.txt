@@ -1,0 +1,82 @@
+Week 4 Quiz
+Graded Quiz. • 15 min. • 10 total points available.10 total points
+
+
+1.
+Question 1
+True or False: RandomizedMotifSearch performs well when given a uniform profile matrix.
+2 points
+
+- True
+- False (XXX)
+
+True or False: RandomizedMotifSearch performs poorly when given a uniform profile matrix.
+2 points
+
+- True (XXX)
+- False 
+
+
+2.
+Question 2
+True or False: RandomizedMotifSearch and GibbsSampler are usually run on only one choice of initial k-mers.
+2 points
+
+- False (XXX)
+- True
+
+True or False: RandomizedMotifSearch and GibbsSampler are usually run on many choices of initial k-mers.
+2 points
+
+- False
+- True (XXX)
+
+
+3.
+Question 3
+True or False: it is not possible for RandomizedMotifSearch to move from a collection of motifs with lower score to a collection of motifs with higher score.
+2 points
+
+- True
+- False (WRONG)
+
+True or False: it is possible for GibbsSampler to move from a collection of motifs with lower score to a collection of motifs with higher score.
+2 points
+
+- True (XXX)
+- False
+
+
+4. (WRONG, MUST NEED MORE THAN ONE ANSWER)
+Question 4
+Which of the following motif-finding algorithms is guaranteed to find an optimum solution? In other words, which of the following are not heuristics? (Select all that apply.)
+2 points
+
+- GibbsSampler
+- BruteForceMotifSearch (XXX)
+- GreedyMotifSearch (without pseudocounts)
+- MedianString (XXX)
+
+
+5.
+Question 5
+Assume we are given the following strings Dna:
+
+TGACGTTC
+TAAGAGTT
+GGACGAAA
+CTGTTCGC
+
+Then, assume that RandomizedMotifSearch begins by randomly choosing the following 3-mers Motifs of Dna:
+
+TGA
+GTT
+GAA
+TGT
+
+What are the 3-mers after one iteration of RandomizedMotifSearch?  In other words, what are the 3-mers Motifs(Profile(Motifs), Dna)?  Please enter your answer as four space-separated strings.
+2 points
+
+- GAG CCT GAT GCT (WRONG)
+- GAA    GAA    TGT (WRONG)
+
