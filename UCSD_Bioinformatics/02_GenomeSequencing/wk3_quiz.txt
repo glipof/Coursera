@@ -1,0 +1,65 @@
+Week 3: How Do We Sequence Antibiotics? (Part 1/2)
+
+
+1.
+Question 1
+True or False: Tyrocidine B1 is synthesized by NRP synthetase.
+1 point
+
+- True (XXX)
+- False
+
+
+2.
+Question 2
+Which of the following RNA strings could translate into the amino acid string PRTEIN? (Select all that apply.)
+2 points
+
+- CCCAGUACCGAAAUUAAC
+- CCCCGUACGGAGAUGAAA
+- CCGAGGACCGAAAUCAAC (XXX)
+- CCCAGGACUGAGAUCAAU (XXX)
+
+
+3.
+Question 3
+How many DNA strings transcribe and translate into the amino acid string LEADER?
+2 points
+
+- 1152
+
+
+4.
+Question 4
+What is the integer mass of tryptophan?
+1 point
+
+- 186
+
+
+5.
+Question 5
+Which of the following cyclic peptides could have generated the theoretical spectrum 0 71 101 113 131 184 202 214 232 285 303 315 345 416? (Select all that apply.)
+2 points
+
+- MAIT (XXX)
+- IAMT (XXX)
+- MLAT
+- TAIM
+- TMLA
+- TMIA
+
+
+6.
+Question 6
+Which of the following linear peptides is consistent with Spectrum = {0 71 99 101 103 128 129 199 200 204 227 230 231 298 303 328 330 332 333}? (Select all that apply.)
+2 points
+
+- CTV (XXX)
+- TCE
+- QCV
+- CTQ
+- ETC (XXX)
+- AQV (XXX)
+
+
