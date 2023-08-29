@@ -1,0 +1,108 @@
+
+PROMPT: Based on the above definition of N50, define N75.
+
+N75 is the maximal contig length for which all contigs of at least that length comprise at least 75% of the sum of the lengths of all contigs.
+
+
+
+PROMPT: Compute N50 and N75 for the nine contigs with the following lengths:
+
+N50 = 100
+N75 = 60
+
+
+
+PROMPT: Say that we know that the genome length is 1000. What is NG50?
+
+NG50 = 60.
+
+
+
+PROMPT: If the contig in our dataset of length 100 had a misassembly breakpoint in the middle of it, what would be the value of NGA50?
+
+NGA50 = 50.
+
+
+
+PROMPT: Based on the definition of scaffolds, what information could we use to construct scaffolds from contigs?  Justify your answer.
+
+There are several reasonable answers.  Three are given below.
+
+- Additional long reads could be generated in an attempt to find reads that bridge the gaps in contigs. In other words, if we find a long read that begins at the end of contig A, and ends at the beginning of contig B, then we can conclude that the read extends across the gap between the contigs.
+
+- Contigs could be compared against a "reference genome", i.e., a complete genome sequenced from the same species (often at greater cost). The order of the contigs in the reference genome would indicate the order of the contigs in the desired scaffold.
+
+- Information from read-pairs could be used. In particular, if the first read in a read-pair maps to 
+contig A, and the second read in a read-pair maps to contig B, and we know the distance between the paired reads, then we can infer the distance between contigs A and B.  By gathering this information for different pairs of contigs, we may be able to infer distances between contigs and therefore their ordering with respect to each other.
+
+
+
+PROMPT: Fill in the 9 missing values in the following 3 x 3 table:
+
+k - N50 - #long contigs - total length of long contigs
+
+- Assumes long contigs are (>= 1000 bp), answers for k are:
+
+- 25 (59595, 110, 2802857)
+- 55 (159616, 38, 2821839)
+- 85 (188896, 37, 2825752)
+
+
+PROMPT: Which assembly performed the best in terms of each of these statistics?  Justify your answer.Why do you think that the value you chose performed the best?
+
+- The total length of long contigs is about the same for all three values of k.  Accordingly, we conclude that the assembly using k = 85 performed the best because it has a larger value of N50 and fewer contigs than k = 25, while having the same number of contains as k = 55.
+
+- k = 85 performs the best because if the reads are too short (k  = 25 or 55), then the reads contain too little information, and repeats may make it difficult to identify where a read came from.
+
+
+
+
+PROMPT: (Multiple choice) When you increase the length of k-mers, the de Bruijn graph ____________. 
+Justify your answer.
+
+- The correct answer is C).
+
+- We saw in the class text (and lecture) that increasing the value of k used to generate k-mer reads led to a less tangled de Bruijn graph because the larger the value of k, the greater the amount of information contained in our reads, and the lesser the effects of repeats.
+course text.
+
+
+
+
+PROMPT: Answer the following two questions using the QUAST reports. 
+1. How many misassemblies were there?
+2. How significant is the effect of misassemblies on the resulting assembly?
+
+1. There were 27 misassemblies. (number may vary slightly depending on the version used.)
+
+2. For k  = 85 there were only about 37 long contigs (number may vary slightly depending on the version used), meaning that the misassemblies  are likely causing most of the long contigs to have been broken into  pieces.
+
+
+
+PROMPT: 
+1. What are NG50 and NGA50 for the QUAST run?
+2. How do they compare with the value of N50 that you previously calculated?  Why?
+
+
+1. NG50 = 202,267, and NGA50 = 87,161.
+
+2. NG50 is larger than the N50 value previously obtained. (Note: it roughly corresponds to the value of N50 that was previously  obtained, because the contigs generated cover the entire genome.) However, NGA50 is about half as large as N50 because of the effects of misassemblies.
+
+
+
+###### OTHER POSSIBLE QUESTIONS #######
+
+PROMPT: Fill in the 9 missing values in the following 3 x 3 table:
+
+k - N50 - #long contigs - total length of long contigs
+
+25 - 52,209 - 112 - 2,795,662
+55 - 148,115 - 48 - 2,819,886
+85 - 186,213 - 40 - 2,826,904
+
+
+
+PROMPT: What is the known species of Staphylococcus that is most similar to the species that you assembled?
+
+Staphylococcus aureus (can be found in the output produced during the SRA import step).
+
+

@@ -1,0 +1,92 @@
+
+Week 4: Quiz - How Do We Sequence Antibiotics? (Part 2/2)
+
+
+1.
+Question 1
+True or False: In practice, real spectra have very few false/missing masses.
+1 point
+
+- True
+- False (XXX)
+
+
+2.
+Question 2
+True or False: When sequencing antibiotics, biologists must account for many more acids than the standard 20 amino acid alphabet.
+1 point
+
+- True
+- False (WRONG)
+
+
+3.
+Question 3
+If Peptide = MAMA and Spectrum = {0 71 71 71 131 131 131 156 198 199 199 202 202 202 333 333 333 404 404}, then what is Score(Peptide, Spectrum)?
+1 point
+
+- 11
+
+
+4.
+Question 4
+If Peptide = PEEP and Spectrum = {0 97 97 97 100 129 194 226 226 226 258 323 323 355 393 452}, then what is LinearScore(Peptide, Spectrum)?
+1 point
+
+- 12 (WRONG)
+- 2 (WRONG)
+
+
+5.
+Question 5
+What element has largest multiplicity in the spectral convolution of Spectrum = {0 86 160 234 308 320 382}?
+1 point
+
+- 74
+
+
+
+SECOND ROUND OF QUESTIONS:
+
+1.
+Question 1
+True or False: In practice, the charge of a fragment ion is irrelevant when dealing with real spectra.
+1 point
+
+- True
+- False (XXX)
+
+
+2.
+Question 2
+True or False: When sequencing antibiotics, biologists can safely assume that all amino acids derive from the standard 20 amino acid alphabet.
+1 point
+
+- True (WRONG)
+- False
+
+
+3.
+Question 3
+If Peptide = MAMA and Spectrum = {0 71 178 202 202 202 333 333 333 404 507 507}, then what is Score(Peptide, Spectrum)?
+1 point
+
+-  8
+
+
+4.
+Question 4
+If Peptide = PEEP and Spectrum = {0 97 97 129 194 196 226 226 244 258 323 323 452}, then what is LinearScore(Peptide, Spectrum)?
+1 point
+
+- 1 (WRONG)
+
+
+5.
+Question 5
+What element has largest multiplicity in the spectral convolution of Spectrum = {0 57 118 179 236 240 301}?
+1 point
+
+- 61
+
+

@@ -1,0 +1,111 @@
+Week 5 - Bioinformatics Application Challenge
+
+Peer-graded Assignment: Bioinformatics Application Challenge
+
+
+DEFINITIONS
+There are many assembly tools, but none of them is perfect. Biologists therefore need to evaluate the quality of various assemblers by comparing their results. In our case, once we have run the SPAdes assembler on a set of reads, we need to test the quality of the resulting assembly.
+
+Contig: A contiguous segment of the genome that has been reconstructed by an assembly algorithm
+
+Scaffold: An ordered sequence of contigs (possibly separated by gaps between them) that are reconstructed by an assembly algorithm. The order of contigs in a correctly assembled scaffold corresponds to their order in the genome. Existing assemblers specify the approximate lengths of gaps between contigs in a scaffold. 
+
+N50 statistic: N50 is a statistic that is used to measure the quality of an assembly. N50 is defined as the maximal contig length for which all contigs greater than or equal to that length comprise at least half of the sum of the lengths of all the contigs. For example, consider the five toy contigs with the following lengths: [10, 20, 30, 60, 70]. Here, the total length of contigs is 190, and contigs of length 60 and 70 account for at least 50% of the total length of contigs (60 + 70 = 130), but the contig of length 70 does not account for 50% of the total length of contigs.  Thus, N50 is equal to 60. 
+
+NG50 statistic: The NG50 length is a modified version of N50 that is defined when the length of the genome is known (or can be estimated). It is defined as the maximal contig length for which all contigs of at least that length comprise at least half of the length of the genome. NG50 allows for meaningful comparisons between different assemblies for the same genome. For example, consider the five toy contigs we considered previously: [10, 20, 30, 60, 70]. These contigs only add to 190 nucleotides, but say that we know that the genome from which they have been generated has length 300. In this example, the contigs of length 30, 60, and 70 account for at least 50% of the genome length (30 + 60 + 70 = 160); but the contigs of length 60 and 70 no longer account for at least 50% of the genome length (60 + 70 = 130).  Thus, NG50 is equal to 30.
+
+NGA50 statistic: If we already know a reference genome for a species, then we can test the accuracy of a newly assembled genome against this reference. The NGA50 statistic is a modified version of NG50 accounting for assembly errors (called misassemblies). To compute NGA50, errors in the contigs are accounted for by comparing contigs to a reference genome. All of the misassembled contigs are broken at misassembly breakpoints, resulting in a larger number of contigs with the same total length. For example, if there is a missasembly breakpoint at position 10 in a contig of length 30, this contig will be broken into contigs of length 10 and 20. 
+
+NGA50 is calculated as the NG50 statistic for the set of contigs resulting after breaking at misassembly breakpoints. For example, consider our example before, for which the genome length is 300. If the largest contig in [10, 20, 30, 60, 70] is broken into two contigs of length 20 and 50 (resulting in the set of contigs [10, 20, 20, 30, 50, 60]), then. contigs of length  20, 30, 50, and 60 account for at least 50% of the genome length (20 + 30 + 50 + 60 = 160). But contigs of length 30, 50, and 60 do not account for at least 50% of the genome length (30 + 50 + 60 = 140).  Thus, NGA50 is equal to 20.
+
+Based on the above definition of N50, define N75.
+
+- N75 is another statistic used to measure the quality of genome assembly, similar to N50. It is defined as the maximal contig length for which all contigs greater than or equal to that length comprise at least 75% of the sum of the lengths of all the contigs.
+
+- In this case, the contigs of length 60 and 70 account for 130 nucleotides (60 + 70 = 130), which is more than 75% of the total assembly length (190 * 0.75 = 142.5). However, the contig of length 70 alone does not cover 75% of the total assembly length. Thus, N75 is equal to 60.
+
+
+Compute
+N50 and N75 for the nine contigs with the following lengths:
+[20, 20, 30, 30, 60,
+60, 80, 100, 200].
+
+- N50 = 200
+- N75 = 60
+
+
+Say that we know that the genome length is 1000. What is NG50?
+
+- From the provided QUAST report, the NG50 value for the assembly was reported as 25228. This means that the maximal contig length for which the sum of contig lengths meeting or exceeding that threshold covers at least 50% of the reference genome length (1000) is 25228.
+
+
+If the contig in our dataset of length 100 had a misassembly breakpoint in the middle of it, what would be the value of NGA50?
+
+- The NGA50 would then be calculated as the maximal contig length for which all contigs of at least that length comprise at least half of the length of the genome (1000). In this case, the contigs [60, 60, 80, 50, 50, 200] with a combined length of 500 account for at least 50% of the genome length. The maximal contig length for which this condition is met is 80, so the NGA50 would be 80.
+
+
+Based on the definition of scaffolds, what information could we use to construct scaffolds from contigs?  Justify your answer.
+
+- Scaffolds are constructed from contigs using various information and data to arrange and order the contigs into a more accurate representation of the underlying genome structure. The goal of scaffolding is to bridge the gaps between contigs and establish their relative orientations and distances to create a more comprehensive assembly.
+
+- Scaffolds are constructed from contigs by integrating various sources of information, such as paired-end and mate-pair reads, long-range linkage data, repeat analysis, read alignment, overlapping ends, conservation of gene order, and computational algorithms. This integration process helps arrange and orient contigs accurately, filling gaps and providing a more complete representation of the genome structure.
+
+
+We will now answer questions concerning the assembly of the Staphylococcus reads.  If you are running SPAdes yourself, then continue here as soon as your assembly of the Staph reads has completed. If you are following the completed runs, you can continue here at any time.
+Consider the following three statistics:
+	•	N50.
+	•	The number of long contigs, i.e., contigs with length ≥ 1000 nucleotides. Biologists are mainly interested in long contigs and often discard short contigs, since short contigs often harbor only fragments of genes rather than complete genes. 
+	•	The total length of long contigs.  This  statistic can be combined with N50 and the number of long contigs; a  good assembly is one that has relatively few long contigs, but the total  length of long contigs is high, as is N50.
+These three statistics can be found by analyzing the contigs.fasta file or the contigs.tabular file generated at the end of SPAdes execution. The tabular file is a summary sheet of all the contigs present in the assembly. Below is an example snapshot of what the fasta and tabular file look like, respectively, for k = 25.
+
+
+
+You will use the Quality Assessment Tool for Genome Assembly QUAST (Gurevich et al, 2013) to evaluate the quality of your assembly using the Staph reference genome as the gold standard.
+	•	Download the contigs.fasta file as part of the SPAdes output from each value of k.
+	•	For each of the three files, go to QUAST (http://cab.cc.spbu.ru/quast/ Opens in a new tab ) and upload your contigs.fasta file with the “Add files” button.
+	•	Leave the “Scaffolds” and “Find genes” boxes unchecked and keep the indicator on “Prokaryotic.”
+	•	Click on the “Another genome” link underneath “Genome.” Fill in a name and upload the staph_genome.fasta Opens in a new tab  file that we provided for the “Reference” file. (Note: we provide this file as a .txt, you will need to save it as .fasta). Leave the other two inputs (“Genes” and “Operons”) blank and click “Evaluate.”
+	•	A link to the report should appear on the right side of the page in a few moments. Evaluate the report and answer the following questions.
+	•	If you had difficulties running QUAST, please find the required reports for this part of the assignment in the Quast reports folder here Opens in a new tab  : https://drive.google.com/drive/folders/1L-cfjiyd9RJOwY1Slau-wQHGmO1g1xft?usp=sharing Opens in a new tab 
+	•	Select the report (a html file) corresponding to the k value chosen. Download it and open it using any web browser.
+	•	All the required statistics are present on the left panel of the report. Click on ‘Extended report’ to see all statistics required for the following questions.
+First, fill in the 9 missing values in the following 3 x 3 table:
+
+k - N50 - #long contigs - total length of long contigs
+
+- Assuming long contigs are (>= 5000 bp), answers for k are:
+
+- 25 (59595, 79, 2725711)
+- 55 (159616, 28, 2796331)
+- 85 (188896, 28, 2801926)
+
+
+Which assembly performed the best in terms of each of these statistics?  Justify your answer.Why do you think that the value you chose performed the best?
+
+-  The "contigs_85" assembly has a smaller number of contigs (28) and a higher total length of long contigs (>= 5000 bp) (2801926 bp) compared to the other assemblies ("contigs_25" and "contigs_55"). This suggests the "contigs_85" assembly is indeed performing better in terms of longer and fewer contigs.
+
+- Also "contigs_85" is highlighted in light blue, which according to the heat map is better than the other assemblies that are light red or white.
+
+(Multiple choice) When you increase the length of k-mers, the de Bruijn graph ____________. 
+Justify your answer.
+A) Becomes more tangled.
+B) Contains more nodes.
+C) Becomes less tangled. (XXX)
+D) Remains the same.
+
+
+
+Answer the following two questions using the QUAST reports. 
+1. How many misassemblies were there?
+2. How significant is the effect of misassemblies on the resulting assembly?
+
+1. Number of disassemblies is 26. 
+2. The number of misassemblies provides an indication of the assembly's overall structural correctness. Misassemblies can lead to incorrect orderings or orientations of contigs, potentially affecting gene predictions, annotation, and downstream analyses.
+
+
+1. What are NG50 and NGA50 for the QUAST run?
+2. How do they compare with the value of N50 that you previously calculated?  Why?
+
+1. The NG50 (N50 for the reference genome) is 25228 and the NGA50 (NG50 accounting for assembly errors) is 15818.
+
+2. The N50 (contigs) was 100. The N50 value for the contigs (100) is considerably lower than both the NG50 (25228) and NGA50 (15818) values. This indicates that the contigs in the assembly are generally shorter than the reference genome's NG50 and the adjusted NG50 that accounts for assembly errors (NGA50).
